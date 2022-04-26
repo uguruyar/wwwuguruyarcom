@@ -102,3 +102,14 @@ dist
 
 # TernJS port file
 .tern-port
+
+.next
+.idea
+node_modules
+public/ui
+public/sw*
+public/workbox*
+.DS_Store
+out/
+.env
+.env.local
