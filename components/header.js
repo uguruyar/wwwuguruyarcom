@@ -5,19 +5,19 @@ export default function Header() {
     <header className="site-4xl-container py-6">
       <nav className="space-x-6">
         <Link href="/">
-          <a>Hakkımda</a>
+          <a>About Me</a>
         </Link>
         <Link href="/blog">
-          <a>Yazılar</a>
+          <a>Articles</a>
         </Link>
         <Link href="/blog">
-          <a>Yazılar</a>
+          <a>Portfolio</a>
         </Link>
         <Link href="/blog">
-          <a>Yazılar</a>
+          <a>What I Read?</a>
         </Link>
         <Link href="/blog">
-          <a>Yazılar</a>
+          <a>Bookmarks</a>
         </Link>
       </nav>
     </header>

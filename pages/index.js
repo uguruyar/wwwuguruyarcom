@@ -4,17 +4,24 @@ function HomePage() {
       <div className="site-4xl-container">
         <div className="space-y-4">
           <h1 className="text-2xl font-bold">
-            Ben Adem ilter. İstanbul'da yaşayan Dijital Ürün Tasarımcısıyım.
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste,
+            consequatur itaque! Repellat labore amet porro veritatis recusandae
+            quos, beatae illum perspiciatis qui nihil neque autem atque? Ipsam
+            voluptates suscipit nobis.
           </h1>
 
           <p>
-            Tasarım araçları, front-end teknolojileri, sokak fotoğrafçılığı ve
-            tipografi gibi konularla yakından ilgileniyorum.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
+            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
+            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
+            quod, voluptatibus nisi!
           </p>
 
           <p>
-            Youtube kanalımda sektördeki eski teknoloji ve alışkanlıkları
-            yenilerle değiştirmek için modern türkçe içerikler üretiyorum.
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
+            facere quibusdam molestiae sit ipsam reprehenderit possimus,
+            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
+            iste, dignissimos cumque voluptatem quae.
           </p>
         </div>
       </div>
