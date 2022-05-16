@@ -1,182 +1,28 @@
 function HomePage() {
   return (
     <>
-      <div className="site-4xl-container">
+      <div className="site-6xl-container text-white">
         <div className="space-y-4">
-          <h1 className="text-2xl font-bold">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste,
-            consequatur itaque! Repellat labore amet porro veritatis recusandae
-            quos, beatae illum perspiciatis qui nihil neque autem atque? Ipsam
-            voluptates suscipit nobis.
-          </h1>
-
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
+            Hey, I'm a Senior Software Engineer at Company. I enjoy working with
+            Next.js and crafting beautiful front-end experiences.
+          </p>
+          <p>
+            This portfolio is built with Next.js and a library called Nextra. It
+            allows you to write Markdown and focus on the content of your
+            portfolio.
           </p>
 
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque,
-            beatae aliquam laborum provident a, ullam ex vel nobis aspernatur
-            nisi aperiam, praesentium excepturi! Obcaecati alias rem voluptatem
-            quod, voluptatibus nisi!
-          </p>
-
-          <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis,
-            facere quibusdam molestiae sit ipsam reprehenderit possimus,
-            voluptate, rerum eaque similique dolore! Nulla eveniet ducimus rem
-            iste, dignissimos cumque voluptatem quae.
-          </p>
+          <p>Deploy your own in a few minutes.</p>
+        </div>
+        <hr></hr>
+        <div>
+          <ul class="list-disc list-inside">
+            <li>Twitter @uguruyarx</li>
+            <li>Github @uguruyar</li>
+            <li>Linkedin @uguruyar</li>
+            <li>Email uguruyarx@gmail.com</li>
+          </ul>
         </div>
       </div>
 
